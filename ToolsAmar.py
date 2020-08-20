@@ -14,6 +14,7 @@ print "\033[0;31m[1] Brutal Spam"
 print "\033[1;33m[2] Hack Facebook"
 print "\033[0;31m[3] Spam Lengkap"
 print "\033[1;33m[4] Install Bahan"
+print "\033[0;31m[5] Keyboard Panah"
 pilih = raw_input('\033[1;0m[?] pilih : ')
 if pilih == "1":
 	os.system('git clone https://github.com/Amar-star1/brutalsms')
@@ -30,7 +31,7 @@ elif pilih =="3":
 	print "\033[0;35m[~] Penginstallan Selesai"
 	print "[+] Ketik \033[0;32m$\033[1;34mcd spam"
 	print "[+] \033[0;35mLalu Ketik \033[0;32m$\033[1;34mpython2 KomplitSpam.py"
-elif pilih =="5":
+elif pilih =="4":
 	os.system('\033[1;0mapt update && apt upgrade')
 	os.system('pkg install python2')
 	os.system('pkg install nano')
@@ -38,3 +39,8 @@ elif pilih =="5":
 	os.system('pip2 install requests')
 	os.system('pip2 install mechanize')
 	print "\033[1;0mPenginstallan Selesai"
+elif pilih =="5":
+	os.system('git clone https://github.com/Amar-star1/arrowkey')
+	print "\033[0;35m[~] Penginstallan Selesai"
+	print "[+] Ketik \033[0;32m$\033[1;34mcd arrowkey"
+	print "[+] \033[0;35mLalu Ketik \033[0;32m$\033[1;34mpython terkey.py"
