@@ -1,0 +1,2 @@
+# allskrip
+Semua jadi satu
