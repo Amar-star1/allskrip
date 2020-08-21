@@ -2,19 +2,22 @@ import os
 import sys
 
 os.system('clear')
-os.system('figlet Hack FB')
+os.system('figlet ALL SKRIPT')
 print "\033[0;35m================================================"
 print "\033[0;32m|| author   :  AmaR                           ||"
 print "\033[0;34m|| facebook :  Dhika Vhanhouthen              ||"
 print "\033[1;33m|| github   :  https://github.com/Amar-star1  ||"
 print "================================================"
-print
+print "
+print "
 print "\033[1;34m[+] Menu Pilihan [+]"
 print "\033[0;31m[1] Brutal Spam"
 print "\033[1;33m[2] Hack Facebook"
 print "\033[0;31m[3] Spam Lengkap"
 print "\033[1;33m[4] Install Bahan"
 print "\033[0;31m[5] Keyboard Panah"
+print "\033[1;33m[6] Kode Warna"
+print "
 pilih = raw_input('\033[1;0m[?] pilih : ')
 if pilih == "1":
 	os.system('git clone https://github.com/Amar-star1/brutalsms')
