@@ -2,7 +2,7 @@ import os
 import sys
 
 os.system('clear')
-os.system('figlet Semua Tools :')
+os.system('figlet Semua Tools ')
 print ("\033[0;35m================================================")
 print ("\033[0;32m|| author   :  AmaR                           ||")
 print ("\033[0;34m|| facebook :  Dhika Vhanhouthen              ||")
