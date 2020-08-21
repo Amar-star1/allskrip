@@ -47,3 +47,8 @@ elif pilih =="5":
 	print "\033[0;35m[~] Penginstallan Selesai"
 	print "[+] Ketik \033[0;32m$\033[1;34mcd arrowkey"
 	print "[+] \033[0;35mLalu Ketik \033[0;32m$\033[1;34mpython terkey.py"
+elif pilih =="6":
+	os.system('git clone https://github.com/Amar-star1/hexcode')
+	print "\033[0;35m[~] Penginstallan Selesai"
+	print "[+] Ketik \033[0;32m$\033[1;34mcd hexcode"
+	print "[+] \033[0;35mLalu Ketik \033[0;32m$\033[1;34mpython hexcode.py"
