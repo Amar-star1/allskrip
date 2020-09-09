@@ -34,5 +34,10 @@ updatev3_1111011101010101101010111101_Tools-Spam
 
 <a class="btn btn-block " data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Amar-star1&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8300c0e32e39019273ad38ca4f5b36dab8cc15b79aa17ccb58ac8512fbb2fce3" href="/login?return_to=%2FAmar-star1">Follow Github</a>
 
-
-<a href="https://api.whatsapp.com/send?phone=6287794033400&amp;text=Halo%20admin%20Awesomeprivate,%20Saya%20mau%20tanya%20les%20privat%20mohon%20informasinya%20detailnya,%20Terima%20kasih" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<a href="https://api.whatsapp.com/send?phone=6283805408276&amp;text=P" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-caret-right"></i>			</span>
+						<span class="elementor-button-text">Chat Admin</span>
+		</span>
+					</a>
