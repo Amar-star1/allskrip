@@ -41,3 +41,5 @@ updatev3_1111011101010101101010111101_Tools-Spam
 						<span class="elementor-button-text">Chat Admin</span>
 		</span>
 					</a>
+
+<iframe src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LcsR_cSAAAAAMGquDmKpd3R-ngjVvTIlZ2rwB9A&amp;co=aHR0cHM6Ly93d3cub3BlcmEuY29tOjQ0Mw..&amp;hl=id&amp;v=Y5tQ3lKwn1XL5hGgLz1kR4-1&amp;theme=light&amp;size=normal&amp;cb=2w2snvht05st" width="304" height="78" role="presentation" name="a-awb7f5tewcff" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe>
